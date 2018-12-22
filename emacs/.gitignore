@@ -1,0 +1,6 @@
+# Don't need this environment mapping file
+.spacemacs.env
+
+# Where I put Emacs customize system commands instead of 
+# dumping them at the end of init.el
+emacs-custom.el
