@@ -1,0 +1,9 @@
+[submodule "emacs/chemacs"]
+	path = emacs/chemacs
+	url = https://github.com/plexus/chemacs.git
+[submodule "emacs/doom-emacs"]
+	path = emacs/base/doom
+	url = https://github.com/hlissner/doom-emacs.git
+[submodule "emacs/base/spacemacs"]
+	path = emacs/base/spacemacs
+	url = https://github.com/syl20bnr/spacemacs.git
