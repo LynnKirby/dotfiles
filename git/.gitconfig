@@ -1,6 +1,6 @@
 [user]
 	name = Lynn Kirby
 	email = lynn@arrak.is
-	signingKey = 3BF86A1A59C0EA178E4D5049A29DA46AD2CDA33B
+	signingKey = 0x4D8467695446A0EF5A740DCD070C46E93F1CA4B7
 [commit]
 	gpgSign = true
